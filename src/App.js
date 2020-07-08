@@ -1,14 +1,15 @@
 import React, { useState } from 'react';
+import './App.css';
 
 import Jumbotron from 'react-bootstrap/Jumbotron';
 import Toast from 'react-bootstrap/Toast';
 import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-import './App.css';
+/* import your component here */
+
 import IncrementButton from './components/IncrementButton';
 import InputField from './components/InputField';
-import IncreaseFont from './components/IncreaseFont';
 
 
 const ExampleToast = ({ children }) => {
@@ -60,10 +61,6 @@ const App = () => (
 
     <Jumbotron>
       <InputField />
-    </Jumbotron>
-
-    <Jumbotron>
-      <IncreaseFont />
     </Jumbotron>
 
   </Container>
