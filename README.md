@@ -1,4 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Welcome to the React Playground
+
+In this project, take the time to look through the React-Bootstrap library's Components tab. Implement the following components with State and Event Listeners in mind.  There are examples provided to help give you some ideas on how to structure your components.
+
+https://react-bootstrap.github.io/components/
 
 ## Available Scripts
 
